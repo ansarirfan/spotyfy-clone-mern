@@ -38,8 +38,9 @@ A Spotify clone built with the MERN stack (MongoDB, Express, React + Vite, and N
 
 ## Demo
 
-You can check out the live  here: [Spotify Clone ]([https://spotify-clone-demo.com](https://spotify-clone-frontend-duci.onrender.com/)
-You can check out the live  here: [Spotify Clone ]([https://spotify-clone-demo.com](https://spotify-clone-frontend-duci.onrender.com/](https://spotyfy-clone-admin.onrender.com)
+1: You can check out the live  here: https://spotify-clone-demo.com](https://spotify-clone-frontend-duci.onrender.com/
+<br />
+2: You can check out the live  here: https://spotify-clone-demo.com](https://spotify-clone-frontend-duci.onrender.com/](https://spotyfy-clone-admin.onrender.com
 
 ## Installation
 
